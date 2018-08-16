@@ -1,0 +1,16 @@
+| SITENAME                      | TOTAL XML GENERATED  |     TOTAL URL ADDED IN XML      |
+|:-----------------------------|:-----------:|:-----------------------------|
+|https://www.rentbyowner.com|71|2800884|
+|https://www.rentalhomes.com|71|2800884|
+|https://www.vacationhome.rent|71|2800884|
+|https://www.alojamiento.io|71|2800884|
+|https://www.oahu.com|71|2800882|
+|https://www.alohavillas.io|71|2800882|
+|https://www.summerrentals.io|71|2800880|
+|https://www.petfriendly.io|71|878889|
+|https://www.stays.io|71|2800884|
+|https://www.execstays.com|71|2800882|
+|https://www.bedroomvillas.com|71|2800883|
+|https://www.bedroomvillas.com.au|71|2800883|
+|https://www.bedroomvillas.co.uk|71|2800883|
+|https://www.selloffrentals.com|71|2800884|
